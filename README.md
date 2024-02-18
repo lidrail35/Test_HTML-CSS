@@ -7,3 +7,4 @@
 - Inline styles
 - Selectors
 - Selector specificity
+- External styles

@@ -4,3 +4,4 @@
 - Basic tags in HTML
 - Some attributes HTML
 - Semantic tags
+- Inline styles

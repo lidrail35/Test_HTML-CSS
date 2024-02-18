@@ -1,0 +1,11 @@
+.table {
+  border: 1px solid blue;
+  /* border-collapse: separate;
+  border-spacing: 15px; */
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid blue;
+  padding: 15px;
+}

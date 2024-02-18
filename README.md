@@ -8,3 +8,4 @@
 - Selectors
 - Selector specificity
 - External styles
+- Tables

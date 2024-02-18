@@ -6,3 +6,4 @@
 - Semantic tags
 - Inline styles
 - Selectors
+- Selector specificity

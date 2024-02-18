@@ -5,3 +5,4 @@
 - Some attributes HTML
 - Semantic tags
 - Inline styles
+- Selectors

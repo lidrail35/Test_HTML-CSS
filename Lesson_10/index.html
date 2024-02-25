@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!-- <form action="https://google.com" method="get" target="_blank"> -->
+  <form action="mailto:1t@mail.ru" method="post" target="_blank">
+    <fieldset>
+      <legend>Required fielas</legend>
+      <label for="id_firstName">FirstName:</label>
+    <input 
+      type="text" 
+      name="firstName" 
+      id="id_firstName" 
+      placeholder="Type you name" 
+      required>
+    <br><br>
+    <label for="id_lasttName">SecondName:</label>
+    <input 
+      type="text" 
+      name="lastName" 
+      id="id_lastName" 
+      placeholder="Type you name"
+      required>
+
+    <label for="id_email">Email:</label>
+    <input 
+      type="email" 
+      name="email" 
+      id="id_email" 
+      placeholder="Type you email"
+      required>
+    </fieldset>
+    <br>
+    <label for="id_textarea">Do you have a question?:</label>
+    <br>
+    <textarea name="" id="id_textarea" cols="50" rows="10" placeholder="Enter question..."></textarea>
+    <!-- <button>Submit</button> -->
+    <button type="submit">Submit</button>
+  </form>  
+</body>
+</html>
